@@ -1,5 +1,14 @@
-# Unit 1
+<!-- Left to complete -->
+1. Resume index
+2. Resume css
+3. Link to Home pages
+4. Add additional photos
+5. Create additional linkage
+6. Peer review
+7. Submit
 
+
+<!-- Instruction -->
 Create or find an image file to represent yourself and a new image for the background. Be aware of file size: keep the profile image under 400 KB and the background image under 1 MB (see the link in the project resources section to Picresize, an online image resizing tool).
 
 Using a text editor, modify the HTML of the index.html file:
@@ -27,6 +36,8 @@ Make sure to check your code is valid by running it through an HTML and CSS vali
         Don’t worry about any warnings, we just need you to check any errors that might be there.
         If CSS validator flags use of calc, vendor prefixes or pseudo-elements/pseudo-classes these errors should be ignored.
         If HTML validator flags use of pipe (|) in Google font links/URLs this error can also be ignored.
+
+<!-- Extra Credit -->
 
 Create additional pages to expand on this online profile.
 
