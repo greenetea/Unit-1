@@ -1,0 +1,32 @@
+body  {
+  font-family: "arial";
+  background-color: #325F42;
+}
+
+.main-image {
+  border: solid 4px #b8b3b9;
+  border-radius: 30%;
+  position: center;
+}
+
+h1  {
+  background-color:#e2e2e2;
+  padding: 5px;
+}
+
+.section-title  {
+  text-transform: capitalize;
+}
+ h2   {
+   color: #87808E;
+ }
+
+ .sections  {
+   margin: 10px;
+   padding: 10px 20px 20px;
+   max-width: 90%;
+   text-align: justified;
+   background: #e2e2e2;
+   border-bottom: 2px solid #243d24;
+   border-radius: 3px;
+ }
