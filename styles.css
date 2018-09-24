@@ -139,6 +139,11 @@ ul.goals {
   background: #243d24;
 }
 
+.unicorn  {
+  height: 150px;
+  width: 150px;
+}
+
 footer {
   width: 100%;
   min-height: 30px;
